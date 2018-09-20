@@ -1,0 +1,4 @@
+Notes:
+    React and Redux are completely desconnected in build in term, they are not meant to be togheter.
+    Reducer holds the state 
+    
